@@ -1,4 +1,4 @@
-# Lightning Fast REST API With Go in Under 50 Lins
+# Lightning Fast REST API With Go in Under 50 Lines Of Code
 
 I've been using python for APIs for a while. I've bounced
 between Django, FastAPI, Flask, and a slew of others as well,
